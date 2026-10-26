@@ -1,6 +1,6 @@
 ### Hola, soy Angelo 👋
 
-Ingeniero en Informática (Duoc UC) con especialización en Ciencia de Datos. Trabajo con **SQL, Python, BigQuery y Power Platform** para convertir datos operacionales en información útil para el negocio.
+Ingeniero en Informática con especialización en Ciencia de Datos. Trabajo con **SQL, Python, BigQuery y Power Platform** para convertir datos operacionales en información útil para el negocio.
 
 📍 Chile · Abierto a roles de **Analista de Datos / BI** (remoto o presencial)
 
