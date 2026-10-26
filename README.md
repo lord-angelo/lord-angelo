@@ -1,12 +1,12 @@
-### Hola, soy Angelo 👋
+### Hola mundo! soy Angelo 
 
 Ingeniero en Informática con especialización en Ciencia de Datos. Construyo software y trabajo con datos: desde apps web y móviles hasta pipelines en la nube y dashboards.
 
-- 💻 **Desarrollo:** apps web y móviles end-to-end con TypeScript, React/Next.js, Angular/Ionic, Django y Firebase
-- 📊 **Datos:** SQL, Python, BigQuery, ETL y dashboards en Looker Studio
-- ⚙️ **Automatización:** Power Apps y Power Automate en entornos industriales
+- **Desarrollo:** apps web y móviles end-to-end con TypeScript, React/Next.js, Angular/Ionic, Django y Firebase
+- **Datos:** SQL, Python, BigQuery, ETL y dashboards en Looker Studio
+- **Automatización:** Power Apps y Power Automate en entornos industriales
 
-📍 Chile · Abierto a roles de **Desarrollo de Software, Analista de Datos / BI** (remoto o presencial)
+Chile · Abierto a roles de **Desarrollo de Software, Analista de Datos / BI** (remoto o presencial)
 
 **Proyectos destacados**
 
