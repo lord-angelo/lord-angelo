@@ -1,8 +1,12 @@
 ### Hola, soy Angelo 👋
 
-Ingeniero en Informática con especialización en Ciencia de Datos. Trabajo con **SQL, Python, BigQuery y Power Platform** para convertir datos operacionales en información útil para el negocio.
+Ingeniero en Informática con especialización en Ciencia de Datos. Construyo software y trabajo con datos: desde apps web y móviles hasta pipelines en la nube y dashboards.
 
-📍 Chile · Abierto a roles de **Analista de Datos / BI** (remoto o presencial)
+- 💻 **Desarrollo:** apps web y móviles end-to-end con TypeScript, React/Next.js, Angular/Ionic, Django y Firebase
+- 📊 **Datos:** SQL, Python, BigQuery, ETL y dashboards en Looker Studio
+- ⚙️ **Automatización:** Power Apps y Power Automate en entornos industriales
+
+📍 Chile · Abierto a roles de **Desarrollo de Software, Analista de Datos / BI** (remoto o presencial)
 
 **Proyectos destacados**
 
@@ -14,6 +18,6 @@ Ingeniero en Informática con especialización en Ciencia de Datos. Trabajo con 
 
 **Herramientas**
 
-`SQL` `BigQuery` `PostgreSQL` `Python` `pandas` `scikit-learn` `TensorFlow` `Looker Studio` `Power Apps` `Power Automate` `GCP` `Firebase` `TypeScript` `React` `Git`
+`TypeScript` `JavaScript` `React` `Next.js` `Angular` `Ionic` `Django` `Python` `SQL` `PostgreSQL` `BigQuery` `Firebase` `GCP` `pandas` `scikit-learn` `TensorFlow` `Looker Studio` `Power Apps` `Power Automate` `Git`
 
 📫 [LinkedIn](https://www.linkedin.com/in/angelo-lq/) · lopez.angeloandres@gmail.com
