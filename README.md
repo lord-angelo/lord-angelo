@@ -13,7 +13,7 @@ Chile · Abierto a roles de **Desarrollo de Software, Analista de Datos / BI** (
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | GeoBus | Monitoreo de buses en tiempo real con pipeline de datos y dashboards (proyecto de título) | GCP · BigQuery · ETL streaming · Looker Studio · Firebase · Ionic |
-| Unlocker · [demo en vivo](https://unlocker-beta.vercel.app) | Plataforma web de arriendo de lockers con mapa, reservas y panel de administración | Next.js · TypeScript · Firestore · Vercel |
+| [Unlocker](https://github.com/lord-angelo/unlocker-demo) · [demo en vivo](https://unlocker-beta.vercel.app) | Plataforma web de arriendo de lockers con mapa, reservas y panel de administración | Next.js · TypeScript · Firestore · Vercel |
 | [Deep-Learning](https://github.com/lord-angelo/Deep-Learning) | 4 proyectos: red densa (MNIST, 98 %), CNN (Los Simpsons, 97 %), LSTM generadora de texto y Transformer | Python · TensorFlow/Keras |
 
 **Herramientas**
